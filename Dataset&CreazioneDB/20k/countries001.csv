@@ -1,0 +1,240 @@
+NAZIONE,A_RISCHIO
+Afghanistan,False
+Albania,True
+Algeria,False
+American Samoa,True
+Andorra,True
+Angola,False
+Anguilla,True
+Antarctica,False
+Antigua And Barbuda,False
+Argentina,True
+Armenia,False
+Aruba,True
+Australia,True
+Austria,True
+Azerbaijan,False
+Bahamas,False
+Bahrain,True
+Bangladesh,False
+Barbados,True
+Belarus,True
+Belgium,False
+Belize,False
+Benin,True
+Bermuda,False
+Bhutan,True
+Bolivia,False
+Bosnia And Herzegovina,False
+Botswana,False
+Bouvet Island,False
+Brazil,False
+British Indian Ocean Territory,True
+Brunei Darussalam,False
+Bulgaria,False
+Burkina Faso,False
+Burundi,False
+Cambodia,True
+Cameroon,False
+Canada,False
+Cape Verde,True
+Cayman Islands,True
+Central African Republic,False
+Chad,False
+Chile,False
+China,True
+Christmas Island,False
+Cocos (Keeling) Islands,False
+Colombia,True
+Comoros,True
+Democratic People's Republic of Korea,False
+Democratic Republic Of The Congo,False
+Cook Islands,True
+Costa Rica,True
+Cote D'ivoire,False
+Croatia,False
+Cuba,True
+Cyprus,True
+Czech Republic,False
+Denmark,False
+Djibouti,False
+Dominica,False
+Dominican Republic,False
+East Timor,True
+Ecuador,False
+Egypt,False
+El Salvador,False
+Equatorial Guinea,True
+Eritrea,True
+Estonia,False
+Ethiopia,True
+Falkland Islands,True
+Faroe Islands,False
+Fiji,False
+Finland,False
+France,False
+French Guiana,True
+French Polynesia,True
+French Southern Territories,False
+Gabon,True
+Gambia,True
+Georgia,False
+Germany,False
+Ghana,True
+Gibraltar,False
+Greece,True
+Greenland,False
+Grenada,False
+Guadeloupe,True
+Guam,True
+Guatemala,True
+Guinea,False
+Guinea-bissau,False
+Guyana,True
+Haiti,False
+Heard Island And Mcdonald Islands,True
+Holy See (Vatican City State),False
+Honduras,True
+Hong Kong,False
+Hungary,True
+Iceland,False
+India,True
+Indonesia,False
+Iran,True
+Iraq,True
+Ireland,False
+Israel,True
+Italy,True
+Jamaica,True
+Japan,True
+Jordan,False
+Kazakstan,False
+Kenya,True
+Kiribati,True
+Kosovo,True
+Kuwait,True
+Kyrgyzstan,False
+Laos,True
+Latvia,True
+Lebanon,True
+Lesotho,True
+Liberia,False
+Libyan Arab Jamahiriya,False
+Liechtenstein,False
+Lithuania,False
+Luxembourg,True
+Macau,False
+Macedonia,False
+Madagascar,False
+Malawi,False
+Malaysia,True
+Maldives,True
+Mali,False
+Malta,True
+Marshall Islands,True
+Martinique,False
+Mauritania,False
+Mauritius,False
+Mayotte,False
+Mexico,True
+Federated States Of Micronesia,True
+Republic Of Moldova,False
+Monaco,True
+Mongolia,True
+Montserrat,True
+Montenegro,False
+Morocco,True
+Mozambique,False
+Myanmar,True
+Namibia,False
+Nauru,True
+Nepal,False
+Netherlands,False
+Netherlands Antilles,False
+New Caledonia,False
+New Zealand,True
+Nicaragua,False
+Niger,True
+Nigeria,False
+Niue,True
+Norfolk Island,True
+Northern Mariana Islands,False
+Norway,False
+Oman,False
+Pakistan,False
+Palau,False
+Palestinian Territory,True
+Panama,False
+Papua New Guinea,False
+Paraguay,True
+Peru,False
+Philippines,True
+Pitcairn,False
+Poland,True
+Portugal,False
+Puerto Rico,True
+Qatar,False
+Romania,False
+Russian Federation,True
+Rwanda,True
+Saint Helena,False
+Saint Kitts And Nevis,False
+Saint Lucia,True
+Saint Pierre And Miquelon,False
+Saint Vincent And The Grenadines,False
+Samoa,False
+San Marino,True
+Sao Tome And Principe,True
+Saudi Arabia,False
+Senegal,False
+Serbia,True
+Seychelles,True
+Sierra Leone,True
+Singapore,False
+Slovakia,True
+Slovenia,True
+Solomon Islands,False
+Somalia,False
+South Africa,True
+South Georgia And The South Sandwich Islands,True
+The Republic of South Korea,True
+Spain,True
+Sri Lanka,True
+Sudan,False
+Suriname,False
+Svalbard And Jan Mayen,True
+Swaziland,True
+Sweden,True
+Switzerland,False
+Syrian Arab Republic,True
+Taiwan,True
+Tajikistan,False
+Tanzania,True
+Thailand,False
+Togo,False
+Tokelau,True
+Tonga,True
+Trinidad And Tobago,False
+Tunisia,False
+Turkey,False
+Turkmenistan,True
+Turks And Caicos Islands,True
+Tuvalu,True
+Uganda,True
+Ukraine,False
+United Arab Emirates,True
+United Kingdom,True
+United States of America,True
+United States Minor Outlying Islands,True
+Uruguay,True
+Uzbekistan,False
+Vanuatu,True
+Venezuela,True
+Vietnam,True
+British Virgin Islands,False
+US Virgin Islands,False
+Wallis And Futuna,True
+Western Sahara,False
+Yemen,False
+Zambia,True
+Zimbabwe ,False
